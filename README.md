@@ -1,1 +1,1 @@
-# sustainbility-index
+# sustainability-index
